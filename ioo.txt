@@ -1,0 +1,9 @@
+atributos
+cor
+material
+dobravel
+rodas
+
+acoes
+armortecedor
+inclinacao
